@@ -5,4 +5,4 @@ Para el desarrollo se utilizarán tecnologías web modernas. El frontend se crea
 
 El proyecto será completado en aproximadamente 6 semanas, con fecha prevista al 19 de octubre del 2025. Este equipo estará conformado por 5 personas: un desarrollador frontend, un desarrollador backend, un diseñador, un tester y un coordinador de proyecto (Team Leader).
 
-El resultado será una solución digital que mejorará la organización del trabajo, reducirá los tiempos de espera y ofrecerá una experiencia más cómoda y eficiente para todos los clientes de la barbería.
+El resultado será una solución digital que mejorará la organización del trabajo, reducirá los tiempos de espera y ofrecerá una experiencia más cómoda y eficiente para todos los clientes de la barbería. Cabe aclarar que este sitio web, estará disponible solamente para computadoras, por el momento no esta para dispositivos moviles.
