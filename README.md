@@ -10,4 +10,6 @@ El resultado será una solución digital que mejorará la organización del trab
 
 https://trello.com/invite/b/68b9a8caafa9579725cfb839/ATTIaa373c3619e58fbb2d82e6e143db8487264B1E0D/proyecto-barberia
 
+link del proyecto: https://barbegod.netlify.app/
+
 
